@@ -1,0 +1,20 @@
+{
+    "title": "Nelya Dark",
+    "name": "nelya-dark",
+    "description": "My First theme.",
+    "version": "1.0.0",
+    "author": "asofiane82 (https://github.com/asofiane82)",
+    "homepage": "https://github.com/Brackets-Themes/nelya-dark",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/NelyaDark"
+    },
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "nelya.css",
+        "dark": true
+    }
+}
